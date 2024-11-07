@@ -1,7 +1,9 @@
-## Hi there 👋
-
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{YOUKK}"/>
+<img
+  src="https://render.gitanimals.org/farms/YOUKK"
+  width="600"
+  height="300"
+/>
 </a>
 
 <!--
